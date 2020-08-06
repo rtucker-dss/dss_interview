@@ -2,3 +2,7 @@
 name = "dss_interview"
 version = "0.0.1"
 include = ["src/*"]
+build = "build.rs"
+
+[dependencies]
+sdl2 = "0.31.0"

@@ -2,3 +2,5 @@ Cargo.lock
 target/
 dss_interview.code-workspace
 .vscode
+docs/
+SDL2.dll
